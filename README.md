@@ -19,7 +19,7 @@ Thanks for checking out this Application.
 
 
 ## Author
-- [Live Site](linkedin.com/in/ahmad-dayoub-)
+- [Ahmad Dayoub](linkedin.com/in/ahmad-dayoub-)
 
 
 Ahmad Dayoub
