@@ -19,7 +19,7 @@ Thanks for checking out this Application.
 
 
 ## Author
-- [Ahmad Dayoub]([linkedin.com/in/ahmad-dayoub-](https://www.linkedin.com/in/ahmad-dayoub-/))
+- [Ahmad Dayoub](https://www.linkedin.com/in/ahmad-dayoub-/)
 
 
 Ahmad Dayoub
